@@ -1,9 +1,9 @@
-# Loan Approval Proccess Automation
+# Loan Approval Process Automation
 A bank wants to automate their loan approval process. They have provided a semi-anonymized dataset containing 606 successful and 76 not successful loans along with their information and transactions. These loans are for existing clients. This could be used to pre-approve existing customers and market to them accordingly.
 
 The dataset belongs to a Czech bank. The goal here is to produce a model that can predict whether client is probably going to default in paying back a loan or not.
 
-The summary and presentation of the results: [link](https://github.com/arashag/Loan-Approval-Proccess-Automation/blob/master/loan_approval_process_automation_presentation.pdf)
+The summary and presentation of the results: [link](https://github.com/arashag/Loan-Approval-Process-Automation/blob/master/loan_approval_process_automation_presentation.pdf)
 
 The data dictionary for the columns name and other related information : [link](https://sorry.vse.cz/~berka/challenge/pkdd1999/berka.htm)
 
